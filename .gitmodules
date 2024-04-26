@@ -1,0 +1,3 @@
+[submodule "gbsdk"]
+	path = gbsdk
+	url = https://github.com/daid/gbsdk.git
